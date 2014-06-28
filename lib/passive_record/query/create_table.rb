@@ -1,7 +1,7 @@
 module PassiveRecord
   module Query
-    module Update
-      def update
+    module CreateTable
+      def create_table
       end
     end
   end
