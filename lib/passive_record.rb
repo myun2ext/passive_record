@@ -1,0 +1,2 @@
+module PassiveRecord
+end
